@@ -5,6 +5,8 @@ A **very** fine text.
 
 * item 1
 * item 2
-	*item 2a
+	* item 2a
+	* item 2b
+* item 3
 
 ##SUB headline
